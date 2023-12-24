@@ -5,6 +5,10 @@ import cors from 'cors'
 
 import './database'
 
+const corsOptions = {
+  origin: 'https://burguer-front-dknm.vercel.app/',
+}
+
 class App {
   constructor() {
     this.app = express()
