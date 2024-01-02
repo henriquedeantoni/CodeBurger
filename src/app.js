@@ -7,6 +7,7 @@ import './database'
 
 const corsOptions = {
   origin: 'https://burguer-front-dknm.vercel.app/',
+  credentials: true,
 }
 
 class App {
