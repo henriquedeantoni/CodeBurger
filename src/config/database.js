@@ -12,5 +12,4 @@ module.exports = {
 /*
   underscore e underscoredAll mudam por exemplo um atributo que seria
   userProducts por user_products
-
 */
